@@ -1,0 +1,5 @@
+# here you list everything you want git to ignore
+
+venv/
+*.pyc
+.env
