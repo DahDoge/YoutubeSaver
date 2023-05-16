@@ -4,6 +4,19 @@ This application is for downloading youtube videos.
 
 ### Installation Instructions
 
+#### Automatic (linux only)
+
+```
+    $ ./install.sh
+```
+
+- Run
+```
+    $ yt_downloader
+```
+
+#### Manual
+
 - Optional: create a virtual environment by downloading the virtualenv library
 
 ```
