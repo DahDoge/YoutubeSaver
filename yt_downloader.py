@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 from pytube import YouTube
 import tkinter as tk
 
