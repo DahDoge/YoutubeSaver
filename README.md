@@ -4,6 +4,9 @@ This application is for downloading youtube videos.
 
 ### Installation Instructions
 
+- Dependencies:
+   - https://github.com/305a385/ytfind
+
 - Optional: create a virtual environment by downloading the virtualenv library
 
 ```
