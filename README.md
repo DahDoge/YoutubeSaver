@@ -4,12 +4,9 @@ This application is for downloading youtube videos.
 
 ### Installation Instructions
 
-<<<<<<< HEAD
-=======
 - Dependencies:
    - https://github.com/305a385/ytfind
 
->>>>>>> a3afc5a (added search)
 - Optional: create a virtual environment by downloading the virtualenv library
 
 ```
@@ -33,8 +30,4 @@ Need to activate the virtual environment
 - Run the application with the following command:
 ```
     $ python yt_downloader.py
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> a3afc5a (added search)
